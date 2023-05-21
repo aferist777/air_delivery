@@ -1,0 +1,23 @@
+FROM python:3.10 as production
+LABEL maintainer="Nikita Ivanov <coolworld2049@gmail.com>" description="air_delivery_bot"
+
+WORKDIR airbot/air_delivery
+
+ARG BOT_TOKEN=''
+ARG WEBHOOK_HOST=''
+ARG WEBAPP_PORT=80
+
+ENV BOT_TOKEN=$BOT_TOKEN
+ENV WEBHOOK_HOST=$WEBHOOK_HOST
+ENV WEBAPP_PORT=$WEBAPP_PORT
+
+RUN touch /env.txt
+RUN printenv > /env.txt
+RUN apt-get install python3
+
+COPY requirements.txt airbot/air_delivery/
+RUN pip install -r airbot/air_delivery/requirements.txt
+COPY . airbot/air_delivery/
+
+EXPOSE 301:301
+CMD python3 airbot/air_delivery/webhook.py

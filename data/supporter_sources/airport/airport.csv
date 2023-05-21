@@ -1,0 +1,63 @@
+iata_code,icao_code,name_rus,name_eng,city_rus,city_eng,population,gmt_offset,country_rus,country_eng,iso_code,latitude,longitude,website
+EVN,UDYZ,Звартноц,Zvartnots,Звартноц,Zvartnots,1102000,4,Армения,Armenia,AM,40.147275,44.395881,http://www.zvartnots.am/
+LWN,,Международный аэропорт Ширак,Shirak International Airport,Гюмри,Gyumri,116800,4,Армения,Armenia,AM,,,
+BUS,UGSB,Батуми,Batumi,Батуми,Batumi,155542,3,Грузия,Georgia,GE,41.61,41.5997,
+TBS,UGTB,"Шота Руставели Тбилисский международный аэропорт
+",Shota Rustaveli Tbilisi International Airport,Тбилиси,Tbilisi,1100000,4,Грузия,Georgia,GE,41.669167,44.954722,http://www.airport.ge/
+AKX,,Актобе,Aktobe International Airport,Актобе,Aktobe,,5,Казахстан ,Kazakhstan ,KZ,,,
+GUW,UATG,Атырау,Atyrau International Airport,Атырау,Atyrau,182753,5,Казахстан,Kazakhstan,KZ,47.121944,51.821389,http://www.atyrauairport.com
+CIT,,Шымкент,Shymkent International Airport ,Шымкент,Shymkent ,,5,Казахстан,Kazakhstan,KZ,,,
+ALA,UAAA,Алматы,Almaty,Алматы,Almaty,1209000,6,Казахстан,Kazakhstan,KZ,43.355556,77.043889,http://www.alaport.com
+NQZ,,Международный аэропорт Нурсултан Назарбаев,Nursultan Nazarbayev International Airport,Астана  ,Astana,,6,Казахстан,Kazakhstan,KZ,,,
+CUN,,Международный аэропорт Канкун,"Cancun International Airport
+",Канкун ,Cancun,,,Мексика,Mexico,MX,,,
+TIJ,,"Международный аэропорт Тихуаны
+",Tijuana International Airport,Тихуана ,Tijuana,,,Мексика,Mexico,MX,,,
+SVX,,Международный аэропорт Кольцово,Koltsovo International Airport,Екатеринбург,Yekaterinburg,,,Россия,Russian Federation,RU,,,
+KRR,URKK,Пашковский,Pashkovsky,Краснодар,Krasnodar,649851,3,Россия,Russian Federation,RU,45.034689,39.170539,
+SVO,UUEE,Шереметьево,Sheremetyevo,Москва,Moscow,10452000,3,Россия,Russian Federation,RU,55.972642,37.414589,http://www.svo.aero
+SIP,,"Международный аэропорт Симферополь
+","Simferopol International Airport
+",Крым,Crimea ,,,Россия,Russian Federation,RU,,,
+KZN,UWKD,Казань,Kazan,Казань,Kazan,1115000,-2,Россия,Russian Federation,RU,55.606186,49.278728,
+DME,UUDD,Домодедово,Domodedovo,Москва,Moscow,10452000,3,Россия,Russian Federation,RU,55.408786,37.906314,http://www.domodedovo.ru
+OVB,UNNT,Толмачево,Tolmachevo,Новосибирск,Novosibirsk,1389000,6,Россия,Russian Federation,RU,55.012622,82.650656,http://www.tolmachevo.ru
+AER,,Международный аэропорт Сочи,Sochi International Airport,Адлер,Adler,,,Россия,Russian Federation,RU,,,
+KGD,UMKK,Калининград,Kaliningrad,Калининград,Kaliningrad,434954,2,Россия,Russian Federation,RU,54.89005,20.592633,http://www.airport-kaliningrad.ru
+LED,,Пулково аэропорт,Pulkovo Airport,Санкт-Петербург,Saint Petersburg ,,,Россия,Russian Federation,RU,,,
+UFA,UWUU,Уфа,Ufa,Уфа,Ufa,1018000,5,Россия,Russian Federation,RU,54.557511,55.874417,http://www.airportufa.ru
+ESB,LTAC,"Международный аэропорт Эсенбога
+",Esenboga International Airport,Анкара,Ankara,3716000,2,Турция,Turkey,TR,40.128056,32.995,http://www.esenboga.com
+AYT,LTAI,Анталия,Antalya,Анталия,Antalya,783000,2,Турция,Turkey,TR,36.898731,30.800461,http://www.aytport.com
+BJV,,Милас,Milas,Милас,Milas,,,Турция,Turkey,TR,,,
+DLM,,Даламан,Dalaman,Даламан,Dalaman,,,Турция,Turkey,TR,,,
+ADB,,Аэропорт Аднан Мендерес,Adnan Menderes Airport,Измир,Izmir,,,Турция,Turkey,TR,,,
+JST,KJST,"Округ Камбрия
+",Cambria County,Джонстаун,Johnstown,64615,5,США,United States,US,40.316111,-78.833944,
+BQT,UMBB,Брест,Brest,Брест,Brest,144899,2,Беларусь,Belarus,BY,52.108334,23.898056,
+GME,,Гомель,Gomel,Гомель,Gomel,,,Беларусь,Belarus,BY,,,
+MSQ,UMMS,Национальный аэропорт Минск,Minsk International 2,Минск,Minsk,1805000,2,Беларусь,Belarus,BY,53.882469,28.030731,
+MVQ,,Могилев,Mogilev,Могилев,Mogilev,,,Беларусь,Belarus,BY,,,
+YVR,,Ванкувер,Vancouver,Ванкувер,Vancouver,,,Канада,Canada,CA,,,
+YYC,,Калгари,Calgary,Калгари,Calgary,,,Канада,Canada,CA,,,
+YUL,,Pierre Elliot Trudeau airport,Аэропорт Пьер Эллиот Трюдо,Монреаль,Montreal ,,,Канада,Canada,CA,,,
+YYZ,CYYZ,Лестер Б. Пирсон Интернэшнл,Lester B. Pearson International,Торонто,Toronto,5213000,-5,Канада,Canada,CA,43.677223,-79.630556,http://www.gtaa.com/en/home/
+AUH,OMAA,Абу-Даби,Abu Dhabi International,Абу-Даби,Abu Dhabi,603492,4,ОАЭ,United Arab Emirates,AE,24.432972,54.651138,http://www.dcaauh.gov.ae
+RKT,,Аэропорт Рас-аль-Хайма,Ras al Khaimah airport,Рас-эль-Хайма,Ras Al Khaimah,,,ОАЭ,United Arab Emirates,AE,,,
+SHJ,OMSJ,Шарджа,Sharjah,Шарджа,Sharjah,1103027,4,ОАЭ,United Arab Emirates,AE,25.328575,55.51715,http://www.sharjahairport.ae
+AAN,,Аль-Айн,Al Ain,Аль-Айн,Al Ain,,,ОАЭ,United Arab Emirates,AE,,,
+FJR,,Эль-Фуджайрa,Al-fujairah,Эль-Фуджайрa,Al-fujairah,,,ОАЭ,United Arab Emirates,AE,,,
+ATL,,"Международный аэропорт Хартсфилд-Джексон Атланта
+",Hartsfield–Jackson Atlanta International Airport,Атланта ,Atlanta,,,США,United States,US,,,
+LAX,,Лос-Анджелес,Los Angeles,Лос-Анджелес,Los Angeles,,,США,United States,US,,,
+SFO,,Сан-Франциско,San francisco,Сан-Франциско,San francisco,,,США,United States,US,,,
+DFW,,Даллас/Форт-Уэрт,Dallas/Fort Worth,Даллас,Dallas,,,США,United States,US,,,
+MIA,,Майами,Miami,Майами,Miami,,,США,United States,US,,,
+ORD,,Аэропорт  О’Хара,O'Hare airport,Чикаго,Chicago,,,США,United States,US,,,
+JFK,,Аэропорт Джон Кеннеди,John F. Kennedy Airport,Нью-Йорк,New York,,,США,United States,US,,,
+LAS,,Маккаран,McCarran,Лас-Вегас,Las Vegas,,,США,United States,US,,,
+DEL,,Аэропорт Индира Ганди,Indira Gandhi airport,Нью-Дели,New Delhi,,,Индия,India,IN,,,
+BOM,,Аэропорт Чатрапати Шиваджи,Chhatrapati Shivaji Airport,Мумбаи,Mumbai ,,,Индия,India,IN,,,
+BLR,,"Международный аэропорт Бангалора
+",Bangalore International Airport,Бангалор,Bangalore,,,Индия,India,IN,,,
+MAA,,Ченнаи,Chennai,Ченнай,Chennai,,,Индия,India,IN,,,

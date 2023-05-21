@@ -1,0 +1,74 @@
+[
+  {
+    "iso_code": "RU",
+    "name_rus": "Россия",
+    "name_eng": "Russian Federation",
+    "flag": "\uD83C\uDDF7\uD83C\uDDFA"
+  },
+  {
+    "iso_code": "US",
+    "name_rus": "США",
+    "name_eng": "United States",
+    "flag": "\uD83C\uDDFA\uD83C\uDDF8"
+  },
+  {
+    "iso_code": "CA",
+    "name_rus": "Канада",
+    "name_eng": "Canada",
+    "flag": "\uD83C\uDDE8\uD83C\uDDE6"
+  },
+  {
+    "iso_code": "AE",
+    "name_rus": "ОАЭ",
+    "name_eng": "United Arab Emirates",
+    "flag": "\uD83C\uDDE6\uD83C\uDDEA"
+  },
+  {
+    "iso_code": "KZ",
+    "name_rus": "Казахстан",
+    "name_eng": "Kazakhstan",
+    "flag": "\uD83C\uDDF0\uD83C\uDDFF"
+  },
+  {
+    "iso_code": "BY",
+    "name_rus": "Беларусь",
+    "name_eng": "Belarus",
+    "flag": "\uD83C\uDDE7\uD83C\uDDFE"
+  },
+  {
+    "iso_code": "AM",
+    "name_rus": "Армения",
+    "name_eng": "Armenia",
+    "flag": "\uD83C\uDDE6\uD83C\uDDF2"
+  },
+  {
+    "iso_code": "GE",
+    "name_rus": "Грузия",
+    "name_eng": "Georgia",
+    "flag": "\uD83C\uDDEC\uD83C\uDDEA"
+  },
+  {
+    "iso_code": "MX",
+    "name_rus": "Мексика",
+    "name_eng": "Mexico",
+    "flag": "\uD83C\uDDF2\uD83C\uDDFD"
+  },
+  {
+    "iso_code": "TR",
+    "name_rus": "Турция",
+    "name_eng": "Turkey",
+    "flag": "\uD83C\uDDF9\uD83C\uDDF7"
+  },
+  {
+    "iso_code": "IN",
+    "name_rus": "Индия",
+    "name_eng": "India",
+    "flag": "\uD83C\uDDEE\uD83C\uDDF3"
+  },
+  {
+    "iso_code": "ID",
+    "name_rus": "Индонезия",
+    "name_eng": "Indonesia",
+    "flag": "\uD83C\uDDEE\uD83C\uDDE9"
+  }
+]
