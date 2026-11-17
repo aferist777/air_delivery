@@ -1,4 +1,22 @@
-# README
+# Air Delivery
+
+A Telegram bot for crowdshipping: people who are flying somewhere carry parcels for people who need something delivered
+from one country to another.
+
+**My role:** the concept and the product: the idea, the user flows and the rules. The code was written by a developer I
+managed.
+
+## How it works
+
+- **Two roles.** A *traveler* posts a trip: the country, city and airport of departure and arrival, and the date. A
+  *sender* posts a parcel on a route.
+- **Matching.** Senders and travelers see each other by the same airport route or the same pair of countries. While an
+  ad waits for a match, the bot reminds its author of new matches every few hours.
+- **An order's life:** accepted, in work, completed, or terminated.
+- **Around it:** registration with agreement to the rules and a short "about me", an admin panel, a reference base of
+  the world's countries and airports.
+
+**Stack:** Python, aiogram 2, PostgreSQL (asyncpg), Redis for the conversation state; long polling or a webhook.
 
 ## Deploy to VDS\[Ubuntu 22.04]
 
